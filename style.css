@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(49, 80, 138);
+    text-align: center;
+}
+
+
+h1 {
+    font-size: 5rem;
+    color: rgb(255, 241, 216);
+    text-shadow: 4px 4px rgb(150, 54, 54);
+}
+
+
+.drum {
+    border: 10px solid rgb(130, 147, 192);
+    font-size: 5rem;
+    width: 150px;
+    height: 150px;
+    line-height: 1.5;
+    font-weight: bold;
+    color: rgb(236, 82, 82);
+    border-radius: 15px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+
+.w {
+    background-image: url(images/tom1.png);
+}
+
+.a {
+    background-image: url(images/tom2.png);
+}
+
+.s {
+    background-image: url(images/tom3.png);
+}
+
+.d {
+    background-image: url(images/tom4.png);
+}
+
+.j {
+    background-image: url(images/snare.png);
+}
+
+.k {
+    background-image: url(images/crash.png);
+}
+
+.l {
+    background-image: url(images/kick.png);
+}
